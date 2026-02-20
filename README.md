@@ -103,6 +103,8 @@ As of Last Week :
 
 * Power BI Desktop
 
+* SQL Queries to load data from Excel Sheets
+
 * DAX Measures
 
 * Data Modeling
