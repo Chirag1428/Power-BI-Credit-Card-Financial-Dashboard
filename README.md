@@ -62,7 +62,7 @@ Revenue | Interest Earned | Income | Customer Satisfaction Score (CSS)
 
 ---
 
-### 🔍 Project Insights 
+## 🔍 Project Insights 
 
 As of Last Week :
 
@@ -85,7 +85,7 @@ As of Last Week :
 
 ---
 
-### ⚙ Features & Interactivity
+## ⚙ Features & Interactivity
 
 * Quarter & week-based filtering
 
@@ -99,7 +99,7 @@ As of Last Week :
 
 ---
 
-### 🛠 Built With
+## 🛠 Built With
 
 * Power BI Desktop
 
