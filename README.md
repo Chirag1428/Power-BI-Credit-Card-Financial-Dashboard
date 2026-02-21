@@ -10,6 +10,8 @@ The dashboard consists of:
 * **Credit Card Report - Transaction** – Revenue, Total interest,Transaction amount and count analysis
 * **Credit Card Report - Customer** – Detailed, filterable customer-level data
 
+ 📌  **Note**: Load the data using MySql Query form Excel Sheets and refer the Query file attached accordingly.
+  
 ---
 
 ## 🎯 Business Goals
